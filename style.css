@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: pink;
+}
+h1 {
+    text-align: center;
+}
+section {
+    margin: 50px;
+    
+}
+ li {
+     font-size: 20px;
+     height: 1.5;
+ }
